@@ -1,11 +1,11 @@
 # ORIENTAÇÃO A OBJETOS I
-* ***CURSO:*** TADS IFPR-Foz 
-* ***PROFESSOR:*** Humberto Martins Beneduzzi 
-* ***SEMESTRE:*** 2º
-* ***HORA AULA:*** 80h
-* ***HORA RELOGIO:*** 67h
+* **CURSO:** TADS IFPR-Foz 
+* **PROFESSOR:** Humberto Martins Beneduzzi 
+* **SEMESTRE:** 2º
+* **HORA AULA:** 80h
+* **HORA RELOGIO:** 67h
 
-#### Linguagem: JAVA
+* **Linguagem: Java**
 
 ### Objetivo:
 Propiciar ao aluno a compreensão dos principais aspectos do paradigma de
