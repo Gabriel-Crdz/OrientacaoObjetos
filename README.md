@@ -5,6 +5,8 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
+#### Tecnologias: Java, VS Code
+
 ### Objetivo:
 Propiciar ao aluno a compreensão dos principais aspectos do paradigma de
 desenvolvimento de software orientado a objetos. Realizar a implementação
