@@ -5,7 +5,7 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
-#### Tecnologias: Java, VS Code
+#### Linguagem: JAVA
 
 ### Objetivo:
 Propiciar ao aluno a compreensão dos principais aspectos do paradigma de
